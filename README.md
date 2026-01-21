@@ -37,7 +37,6 @@
 
 ## Socials
 [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://goodreads.com/im-angel)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/451901035152146561)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31p4n3xdojau7gcu6yukcf6snply?si=116ffca784d64395)
 
 <a href="https://tenor.com/en-GB/view/bye-bye-molang-piu-piu-goodbye-see-you-later-gif-27060076" target="_blank" rel="noopener noreferrer"><img src="https://media.tenor.com/F9BoAioRpCwAAAAi/bye-bye-molang.gif" height="30%" width="30%" alt="Gif of a Molagn and Piu Piu with the words Bye Bye over them"></a>
